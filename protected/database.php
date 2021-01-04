@@ -9,10 +9,10 @@ define('USER_MANAGER', PROTECTED_DIR.'userManager.php');
 
 define('DB_PORT','3306');
 define('DB_TYPE', 'mysql');
-define('DB_HOST', 'localhost');
-define('DB_NAME', 'beadando');
-define('DB_USER', 'root');
-define('DB_PASS', '');
+define('DB_HOST', 'remotemysql.com');
+define('DB_NAME', 'te0CGdFOoc');
+define('DB_USER', 'te0CGdFOoc');
+define('DB_PASS', 'WybAXOr7et');
 define('DB_CHARSET', 'utf8');
 
 function getConnection(){
