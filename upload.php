@@ -20,7 +20,7 @@ $fileExtension = strtolower($fileExtension);
 
 if(!in_array($fileExtension, $extensions)){
     echo 'Hibás kiterjesztés.';
-    include 'index.php.php';
+    include 'index.php';
     return;
 }
 $filename ='telefon.png';

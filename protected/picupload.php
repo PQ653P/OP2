@@ -30,7 +30,7 @@
     MENTÉS
     </button>
     
-    <img class="kep" src="./pushedpic/telefon.png" alt="telefon"/>
+    <img class="kep" src="./pushedpic/telefon.png." alt="telefon"/>
     
     </form>
 	<div class="container-fluid">
